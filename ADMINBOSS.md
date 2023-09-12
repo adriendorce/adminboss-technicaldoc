@@ -1,7 +1,7 @@
 
 # Admin Boss Dashboard Documentation
 
-## [Demo](https://adminboss.netlify.app/)
+## [Demo](https://admin-boss.netlify.app/)
 
 ### Table of Contents
 
